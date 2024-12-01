@@ -16,7 +16,7 @@ Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 Atualmente,
   <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="40">
   <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="40">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=FFB81C" alt="Java" height="40">
   <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40">
   <img src="https://img.shields.io/badge/-L%C3%B3gica%20de%20Programação-blueviolet?style=flat-square&logo=python&logoColor=white" alt="Lógica de Programação" height="40">
 </p>
