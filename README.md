@@ -12,11 +12,11 @@ Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 e busco apr
 ## O que estou aprendendo
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" width="50" alt="HTML5">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CSS3_logo.svg" width="50" alt="CSS3">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="50" alt="Java">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow" alt="Python" height="40">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="40">
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="40">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="40">
+  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white" alt="Java" height="40">
 </p>
 
 ## GitHub Stats
@@ -30,13 +30,12 @@ Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 e busco apr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barbara-dos-santos-bastos-0080571b6">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" width="40" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
   <a href="https://www.instagram.com/barbara_s_bastos">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="40">
   </a>
   <a href="mailto:barbara.bastos1995@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Envelope_icon.svg" width="40" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
 </p>
-
