@@ -1,4 +1,4 @@
-# Olá, eu sou a Bárbara! 👩‍💻
+# Olá, eu sou   Bárbara! 👩‍💻
 
 Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 e busco aprender e me desenvolver na área de *Tecnologia* 💻. Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas* 📚 e estou em busca de *novas oportunidades* 🚀 para *crescer. Busco um **estágio* 📑 para colocar em prática os conhecimentos que estou adquirindo. Quero me tornar uma *profissional de excelência* 🌟, me aprimorar a cada dia e trabalhar em uma empresa onde posso aprender e contribuir.
 
