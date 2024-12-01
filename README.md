@@ -1,69 +1,33 @@
+  
+# Olá, eu sou a Bárbara! 👩‍💻
 
-<h1 align="center"> Meu Nome é Barbara Bastos! Seja Bem-vindo ao meu Perfil aqui no GitHub! 🌟</h1>
+Estou em transição de carreira, buscando aprender e me desenvolver na área de *Tecnologia. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas* e estou em busca de um *estágio* para crescer como *profissional de excelência*. Quero me desenvolver, aprimorar minhas habilidades e encontrar oportunidades para fazer a diferença.
 
-<p align="center">
-  Estou iniciando minha transição de carreira para a área de tecnologia, com foco no aprendizado de programação, desenvolvimento web e banco de dados . 
-</p>
-
----
-
-## 🚀 Sobre Mim
-
-- 🎓 *Estudante em transição de carreira*
-- 📚 Atualmente estudando:  
-  - *Lógica de Programação*
-  - *Java*
-  - *Python*
-  - *HTML5 e CSS3*
-  - *Banco de Dados*
-- 💡 Cada dia mais maravilhada pelo universo da programação , meu objetivo e estudar até me tornar uma programadora competente e tenha relevante dentro do mercado de tecnologia. 
-
----
-
-## 🛠 Tecnologias que Estou Explorando
+## 🚀 Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Algoritmo-000000?style=for-the-badge&logo=python&logoColor=white" alt="Algoritmo">
+  <img src="https://img.shields.io/badge/Visualg-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="Visualg">
 </p>
-
----
-
-## 🌱 Habilidades e Aprendizado
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-Aprendendo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Estudando-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Iniciante-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Em%20progresso-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-blue?style=for-the-badge" />
-</p>
-
----
-
-## 💻 Contato
-
-<p align="center">
-  <a href="barbara.bastos1995@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/barbara-dos-santos-bastos-0080571b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/barbara_s_bastos/profilecard/?igsh=MW9uYnhzYm1sbHBkag==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
----
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=barbarabastossantos&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabastossantos&layout=compact&theme=radical&langs_count=10" alt="Linguagens Mais Usadas">
 </p>
+
+## 💬 Sobre mim
+Eu sou uma profissional em transição de carreira, buscando oportunidades na área de *tecnologia. Estou determinada a me tornar uma **profissional de excelência* e crescer em minha jornada. Busco constantemente aprender novas tecnologias e estou em busca de um estágio para colocar em prática os conhecimentos que tenho adquirido. Se você tem uma oportunidade ou quer conversar sobre tecnologia, ficarei feliz em trocar ideias!
+
+## 📬 Entre em contato
+- *LinkedIn*: [barbara-dos-santos-bastos-0080571b6](https://www.linkedin.com/in/barbara-dos-santos-bastos-0080571b6)
+- *Instagram*: [@barbara_s_bastos](https://www.instagram.com/barbara_s_bastos/)
+- *E-mail*: barbara.bastos1995@gmail.com
+
+## "O melhor está por vir!"
 
