@@ -28,8 +28,15 @@ Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 e busco apr
 
 ## Contatos
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/barbara-dos-santos-bastos-0080571b6)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/barbara_s_bastos)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/3/3f/Envelope_icon.svg)](mailto:barbara.bastos1995@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/barbara-dos-santos-bastos-0080571b6">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" width="40" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/barbara_s_bastos">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram">
+  </a>
+  <a href="mailto:barbara.bastos1995@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Envelope_icon.svg" width="40" alt="Email">
+  </a>
+</p>
 
