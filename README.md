@@ -42,5 +42,11 @@ Sou uma baiana do interior 🌵, em transição de carreira 🔄 Atualmente, atu
   </a>
 </p>
 
+<div>
+  <a href="https://github.com/barbarabastossantos">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=barbarabastossantos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabastossantos&layout=compact&langs_count=7&theme=react"/>
+    ![Snake animation](https://github.com/barbarabastossantos/barbarabastossantos/blob/output/github-contribution-grid-snake.svg).
+    [![readme](https://github-redme-stats.vercel.app/api/pin/?username=barbarabastossantos&theme=react)](https://github.com/barbarabastossantos/barbarabastosantos)
+</div>
 
-![Github Snake](https://raw.githubusercontent.com/barbarabastossantos/output/main/dist/github-contribution-grid-snake.gif)
