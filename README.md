@@ -41,3 +41,6 @@ Sou uma baiana do interior 🌵, em transição de carreira 🔄 Atualmente, atu
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
 </p>
+
+
+![Github Snake](https://raw.githubusercontent.com/barbarabastossantos/output/main/dist/github-contribution-grid-snake.gif)
