@@ -1,6 +1,8 @@
 name: Gerar Cobrinha do GitHub
 
 on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
   push:
   workflow_dispatch:
 
@@ -20,17 +22,15 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
-
-      # Dá push das alterações geradas no branch master (ou outro que quiser)
+      # Dá push das alterações geradas no branch main
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
-      # Publica no branch 'output' para GitHub Pages (se quiser usar)
+      # Publica no branch 'output' para o GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
