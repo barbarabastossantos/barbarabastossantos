@@ -2,36 +2,29 @@ name: Gerar Cobrinha do GitHub
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
-  push:
+    - cron: "0 0 * * *"  # Executa todos os dias à 00:00 UTC
   workflow_dispatch:
+  push:
 
 jobs:
-  build:
+  generate:
+    name: Gerar Snake
     runs-on: ubuntu-latest
 
     steps:
-      # Baixa o código do seu repositório
-      - uses: actions/checkout@v2
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
 
-      # Gera os arquivos da cobrinha
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v3
         with:
-          github_user_name: barbarabastossantos  # Seu usuário aqui
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: barbarabastossantos
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      # Dá push das alterações geradas no branch main
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      # Publica no branch 'output' para o GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
