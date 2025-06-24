@@ -1,19 +1,19 @@
 # Olá, eu sou   Bárbara! 👩‍💻
 
-Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 Atualmente, atuo no setor de confecções e varejo, onde trabalho como vendedora em uma loja de roupas, lidando diretamente com o atendimento ao cliente. Essa experiência me proporcionou o desenvolvimento de habilidades valiosas, como comunicação eficaz, empatia, resiliência, trabalho em equipe, solução de problemas e capacidade de aprender rapidamente . Agora, estou focada na transição para a área de tecnologia, buscando aplicar e expandir minhas competências na programação e no desenvolvimento de sistemas e busco aprender e me desenvolver na área de *Tecnologia* 💻. Estou cursando *Análise e Desenvolvimento de Sistemas* na faculdade 📚 e estou em busca de *novas oportunidades* 🚀 para *crescer. Busco um **estágio* 📑 para colocar em prática os conhecimentos que estou adquirindo. Quero me tornar uma *profissional de excelência* 🌟, me aprimorar a cada dia e trabalhar em uma empresa onde posso aprender e contribuir.
+Sou uma baiana do interior 🌵, em transição de carreira 🔄 Atualmente, atuo no setor de confecções e varejo, onde trabalho como vendedora em uma loja de roupas, lidando diretamente com o atendimento ao cliente. Essa experiência me proporcionou o desenvolvimento de habilidades valiosas, como comunicação eficaz, empatia, resiliência, trabalho em equipe, solução de problemas e capacidade de aprender rapidamente . Agora, estou focada na transição para a área de tecnologia, buscando aplicar e expandir minhas competências na programação e no desenvolvimento de sistemas e busco aprender e me desenvolver na área de Tecnologia 💻. Estou cursando Análise e Desenvolvimento de Sistemas na faculdade 📚 e estou em busca de novas oportunidades 🚀 para crescer. Busco um **estágio 📑 para colocar em prática os conhecimentos que estou adquirindo. Quero me tornar uma profissional de excelência 🌟, me aprimorar a cada dia e trabalhar em uma empresa onde posso aprender e contribuir.
 
 ## O que estou buscando
 
-- *Transição de carreira* 🔄
-- *Estágio* 📑
-- *Aprimoramento contínuo* 🔧
-- *Excelência profissional* 🌟
+- Transição de carreira 🔄
+- Estágio 📑
+- Aprimoramento contínuo 🔧
+- Excelência profissional 🌟
 
 ## O que estou aprendendo
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow" alt="Python" height="40">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=FFB81C" alt="Java" height="40">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white&labelColor=FFB81C" alt="Java" height="40">
   <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="40">
   <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="40">
@@ -40,4 +40,12 @@ Sou uma *baiana do interior* 🌵, em *transição de carreira* 🔄 Atualmente,
   <a href="mailto:barbara.bastos1995@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
+</p>
+
+---
+
+## 🐍 Snake Game dos meus commits
+
+<p align="center">
+  <img src="https://github.com/barbarabastossantos/barbarabastossantos/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
